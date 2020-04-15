@@ -1,0 +1,17 @@
+{
+  "name": "AppJuan",
+  "displayName": "AppJuan",
+  "expo": {
+    "name": "AppJuan",
+    "slug": "AppJuan",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
