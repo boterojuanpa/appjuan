@@ -7,6 +7,6 @@
     <key>EXUpdatesURL</key>
     <string>https://exp.host/@boterojuanpa/AppJuan</string>
     <key>EXUpdatesReleaseChannel</key>
-    <string>default</string>
+    <string>ios-test</string>
   </dict>
 </plist>
