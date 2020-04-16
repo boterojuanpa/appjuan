@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "AppJuan",
+  "short_name": "AppJuan",
+  "start_url": "/?utm_source=web_app_manifest"
+}

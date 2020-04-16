@@ -10,6 +10,14 @@
       "android",
       "web"
     ],
+    "ios": {
+      "bundleIdentifier": "co.com.ceiba.reactnative.iam",
+      "buildNumber": "1.0.0"
+    },
+    "android":{
+      "package": "co.com.ceiba.reactnative.iam",
+      "versionCode": 1
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
